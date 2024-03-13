@@ -221,12 +221,9 @@ h3 {
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
+  list-style: none;
   padding: 0;
-  display: block;
-  display: flex;
-  gap: 40px;
+  margin: 0;
 }
 
 p {
