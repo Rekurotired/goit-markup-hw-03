@@ -183,6 +183,7 @@ h3 {
 }
 
 .person-list {
+  display: flex;
   gap: 24px;
 }
 
